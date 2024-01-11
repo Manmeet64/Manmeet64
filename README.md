@@ -1,25 +1,12 @@
 ### Hi there 👋
 
-<!--
-**Manmeet64/Manmeet64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jeevan-04.Jeevan-04"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🙏+Sasriyaakal+Paaji!;+I'm+Manmeet+Singh!;" />
 </h1>
-# 💫 About Me:
+
+💫 About Me:
 I am currently a first year B Tech Student at ITM Skills University 👨🏻‍🎓<br>I am looking forward to master python 👨🏻‍💻<br>Passionate about upcoming tech 🚀<br>Learning and moving forward :)<br> <br>
 
 
