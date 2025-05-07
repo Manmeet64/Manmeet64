@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Manmeet64.Manmeet64" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=5000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=🙏+Sasriyaakal+Paaji!;+I'm+Manmeet+Singh!;+Full-Stack+Developer+%7C+AI+Builder+%7C+MERN+%2B+Beyond;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=5000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=🙏+Sasriyaakal+Paaji!;+I'm+Manmeet+Singh!;+Full-Stack+Developer+%7C+AI+Builder;" />
 </h1>
 
 ---
