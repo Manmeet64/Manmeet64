@@ -3,10 +3,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Manmeet64.Manmeet64" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=70&lines=🙏+Sasriyaakal+Paaji!;+I'm+Manmeet+Singh!;+Full-Stack+Dev+%7C+AI+Builder+%7C+MERN+Specialist;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=5000&pause=800&color=F7F7F7&center=true&vCenter=true&width=650&height=70&lines=🙏+Sasriyaakal+Paaji!;I'm+Manmeet+Singh+from+India.;Full-Stack+Developer+%7C+AI+Builder+%7C+MERN+Specialist;Always+learning.+Always+building." />
 </h1>
-
-<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300"/>
 
 ---
 
